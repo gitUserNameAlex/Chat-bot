@@ -1,0 +1,17 @@
+.message {
+    align-self: flex-end;
+    list-style: none;
+    background-color: #DC143C;
+    padding: 6px;
+    border-radius: 5px;
+    width: 40%;
+    font-size: 16px;
+}
+
+.message--is-robot {
+    align-self: flex-start;
+}
+
+.message:not(:last-child) {
+    margin-bottom: 10px;
+}

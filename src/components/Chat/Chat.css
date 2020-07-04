@@ -1,0 +1,24 @@
+.loading-tittle {
+    font-size: 25px;
+    color: #FFA07A;
+}
+.unavailable {
+    margin-left: 20px;
+}
+
+.flex {
+    font-family: 'Gothic A1', sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.contacts-link {
+    text-decoration: underline;
+    color: #FFA07A;
+    display: block;
+    padding: 25px;
+    font-size: 25px;
+    display: inline-block;
+}

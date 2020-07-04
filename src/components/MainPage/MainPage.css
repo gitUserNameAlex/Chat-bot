@@ -1,0 +1,29 @@
+.main {
+    background-color: #FFA07A;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Gothic A1', sans-serif;
+    text-align: center;
+}
+
+.chats-link {
+    text-decoration: underline;
+    color: black;
+    display: block;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.main-tittle {
+    font-size: 35px;
+    margin-top: 0px;
+    line-height: 100px;
+}
+
+.tittle {
+    font-size: 20px;
+}
+
+.red {
+    color: #DC143C;
+}
